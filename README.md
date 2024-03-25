@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - <p align="center"> Neste projeto, utilizamos propriedades importantes em sua composição, destacando-se o uso de Grid, variáveis de cor em CSS, unidades de medida flexíveis, escala de cores HSL, transições e animações CSS. <br/><br/></p>
 
- - [Acesse o projeto finalizado, online](https://bernardosa01.github.io//)
+ - [Acesse o projeto finalizado, online](https://bernardosa01.github.io/Fotoblog/)
 
 
 ## 🔖 Layout
